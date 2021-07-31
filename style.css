@@ -1,0 +1,107 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Slab', serif;
+}
+section{
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.top-section{
+background-image: url("images/header-bg.png");
+background-repeat: no-repeat;
+
+}
+h1{
+    font-size: 50px;
+}
+.colorh1{
+    font-weight: 100px;
+    color: #ffc51d;
+}
+
+.half-width{
+width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+
+}
+.margin{
+    margin-top: 70px;
+}
+.half-width img{
+   width: 100%;
+}
+.ankortag{
+   
+    text-decoration: none;
+    padding: 10px 20px;
+    color: wheat;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+}
+
+.madal-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.class1{
+    width: 30%;
+    float: left;
+    padding: 20px;
+    
+}
+.class1 img{
+    height: 300px;
+  
+}
+
+.latast-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+.h1section{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h4{
+    font-size: 12px;
+    text-align: center;
+    color: rgb(144, 129, 129);
+}
+.psection{
+    margin: 70px 0;
+    text-align: center;
+    font-size:20px;
+}
+.footer-class{
+    background-color: rgb(163, 160, 159);
+    height: 110px;
+   
+}
+.fsection{
+    font-size: 20px;
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.footerankor{
+    text-align: center;
+    text-decoration: none;
+}
+.foter-area{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+.last{
+    text-align: center;
+color: rgb(126, 123, 123);
+font-size: 12px;
+}
